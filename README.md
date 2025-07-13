@@ -7,7 +7,7 @@ This project analyzes real-world data to explore how caffeine consumption—by a
 
 ## 📌 Project Overview
 
-- **Dataset:** Caffeine Intake Tracker
+- **Dataset:** Caffeine Intake Tracker (caffeine_intake_tracker.csv)
 - **Goal:**  
   1. Explore how caffeine use affects sleep and focus  
   2. Build a predictive model to estimate whether someone’s sleep is impacted by caffeine
@@ -20,7 +20,7 @@ This project analyzes real-world data to explore how caffeine consumption—by a
 ┣ 📊 EDA_Plots/ # Visualizations from EDA
 ┣ 📈 model_outputs/ # Model artifacts (confusion matrix, ROC curve, etc.)
 ┣ 📄 Caffeine_Analysis.ipynb # Main notebook with full analysis
-┣ 📄 caffeine_data.csv # Cleaned dataset used in the project
+┣ 📄 caffeine_intake_tracker.csv # Cleaned dataset used in the project
 ┗ 📄 README.md 
 
 ---
