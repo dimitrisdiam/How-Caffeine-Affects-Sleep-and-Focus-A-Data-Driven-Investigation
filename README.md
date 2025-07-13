@@ -16,12 +16,12 @@ This project analyzes real-world data to explore how caffeine consumption—by a
 
 ## 📁 Repository Structure
 
-📦caffeine-sleep-focus-analysis
-┣ 📊 EDA_Plots/ # Visualizations from EDA
-┣ 📈 model_outputs/ # Model artifacts (confusion matrix, ROC curve, etc.)
-┣ 📄 Caffeine_Analysis.ipynb # Main notebook with full analysis
-┣ 📄 caffeine_intake_tracker.csv # Cleaned dataset used in the project
-┗ 📄 README.md 
+caffeine-sleep-focus-analysis  
+├── EDA_Plots/                  # Visualizations from EDA  
+├── model_outputs/             # Model artifacts (confusion matrix, ROC curve, etc.)  
+├── caffeine_analysis_cleaned.ipynb  
+├── caffeine_intake_tracker.csv  
+└── README.md
 
 ---
 
